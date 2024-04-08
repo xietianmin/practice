@@ -1,3 +1,4 @@
 # practice
 个人项目练习
-Web javascript
+1、Basic practice of javascript
+2、form of the javasacript
