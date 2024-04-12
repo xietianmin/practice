@@ -1,6 +1,7 @@
 # practice
 个人项目练习
-1、Basic practice of javascript
-2、Form of the javasacript
-3、Audio of the javascript
-4、Object of the javascript
+1、Basic practice of JS
+2、Form of JS
+3、Audio of JS
+4、Object of JS
+5、Local storage of JS
