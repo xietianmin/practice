@@ -6,3 +6,4 @@
 4、Object of JS
 5、Local storage of JS
 6、Basic oop of JS
+7、API practice of JS
