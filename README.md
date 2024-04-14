@@ -7,3 +7,4 @@
 5、Local storage of JS
 6、Basic oop of JS
 7、API practice of JS
+8、Asynchronous programming of JS
